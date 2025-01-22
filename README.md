@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Rudolf Harutyunyan, a Software Engineer with a background in Applied Mathematics and Computer Science from the National Polytechnic University of Armenia. I specialize in backend development, particularly with Node.js, and have experience connecting logistic and e-commerce platforms, working with AWS, and designing real-time chat applications. I’m passionate about algorithms, data structures, and learning tools like Docker, Kubernetes, and RabbitMQ to enhance my expertise
+I’m Rudolf Harutyunyan, a Software Engineer with a background in Applied Mathematics and Computer Science from the National Polytechnic University of Armenia. I specialize in backend development, particularly with Node.js, and have experience connecting logistic and e-commerce platforms, working with AWS, and designing real-time chat applications. I’m passionate about algorithms, data structures and technologies like AWS, Message Brokers.
 
 
 ## 🌐 Socials:
