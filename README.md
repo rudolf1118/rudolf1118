@@ -1,6 +1,5 @@
 # 💫 About Me:
-I’m Rudolf Harutyunyan, a Software Engineer with a background in Applied Mathematics and Computer Science from the National Polytechnic University of Armenia. I specialize in backend development, particularly with Node.js, and have experience connecting logistic and e-commerce platforms, working with AWS, and designing real-time chat applications. I’m passionate about algorithms, data structures and technologies like AWS, Message Brokers.
-
+Nothing special :)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rudharoutyunyan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rud-haroutyunyan) 
